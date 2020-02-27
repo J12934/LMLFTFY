@@ -1,0 +1,5 @@
+name: "LMLFTFY"
+description: "Let me lint:fix that for you"
+runs:
+  using: "node12"
+  main: "index.js"
